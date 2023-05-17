@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 // Projektuppgift Grupp 5
 // Therese Lissel, Maria Lyrberg, Markus Nygren
+// Projekt uppgift med AnnaMaria och Markus för Mjukvarutestning 1
 
 namespace LottospeletDemo1
 {
